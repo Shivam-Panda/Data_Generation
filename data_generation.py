@@ -44,4 +44,4 @@ def generate(rows, cols, target, trend, IDEAL, uncertainty, spacial_uncertainty)
 
     return grid
 
-print(generate(15,15, [7,7], 'UP', 0.5, 10.0, 4))
+# generate(15,15, [7,7], 'UP', 0.5, 10.0, 4)
